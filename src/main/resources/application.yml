@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: proyect
+
+  r2dbc:
+    url: r2dbc:postgresql://ep-steep-morning-a5tf56pi-pooler.us-east-2.aws.neon.tech:5432/neondb?sslmode=require
+    username: neondb_owner
+    password: npg_l1du8tzWOEgp
